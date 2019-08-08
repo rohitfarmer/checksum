@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 Purpose: To create and match checksum for files at the source and destination folder respectively.
 For help and usage: checksum.py --help
